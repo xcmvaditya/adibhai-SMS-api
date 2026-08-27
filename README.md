@@ -1,3 +1,9 @@
+
+API KEY 
+https://adibhai-sms-api.vercel.app/api/bomb
+
+
+
 # 🚀 Vercel SMS Bomber API
 
 <div align="center">
